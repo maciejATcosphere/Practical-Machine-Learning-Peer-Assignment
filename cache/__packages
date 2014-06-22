@@ -1,0 +1,17 @@
+base
+caret
+datasets
+doMC
+e1071
+foreach
+ggplot2
+graphics
+grDevices
+iterators
+knitr
+lattice
+methods
+parallel
+randomForest
+stats
+utils
